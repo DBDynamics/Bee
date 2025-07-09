@@ -18,8 +18,8 @@
 
 ---
 
-<div style="display: flex;">
-  <div style="flex: 1;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
     Bee是DBD团队开发的一款超小型创客神器,尺寸只有50mm x 30mm x 9mm, 它采用ARM Cortex-M0内核的32位处理器, 主频80MHz,
     独立MOS驱动,
     运行空间矢量控制算法及动态力矩调节算法, 可以完美控制86 57 42 35 28 20等型号步进电机.
