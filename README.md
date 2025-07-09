@@ -1,6 +1,4 @@
-# BeeDBD-Bee
-
-
+# DBD-Bee
 
 [DBD](../../)
 [简介](#introduction)
@@ -20,11 +18,17 @@
 
 ---
 
-![](images/bee_top_side_600.png)
-Bee是DBD团队开发的一款超小型创客神器,尺寸只有50mm x 30mm x 9mm, 它采用ARM Cortex-M0内核的32位处理器, 主频80MHz,
-独立MOS驱动,
-运行空间矢量控制算法及动态力矩调节算法, 可以完美控制86 57 42 35 28 20等型号步进电机.
-Bee小巧精致, 接口丰富, 拥有2个IO接口,一路输入IO,一路输出IO.
+<div style="display: flex;">
+  <div style="flex: 1;">
+    Bee是DBD团队开发的一款超小型创客神器,尺寸只有50mm x 30mm x 9mm, 它采用ARM Cortex-M0内核的32位处理器, 主频80MHz,
+    独立MOS驱动,
+    运行空间矢量控制算法及动态力矩调节算法, 可以完美控制86 57 42 35 28 20等型号步进电机.
+    Bee小巧精致, 接口丰富, 拥有2个IO接口,一路输入IO,一路输出IO.
+  </div>
+  <div style="flex-shrink: 0;">
+    <img src="images/bee_top_side_600.png" alt="Bee Top Side" style="width: 50%;" />
+  </div>
+</div>
 
 ---
 
